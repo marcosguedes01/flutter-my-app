@@ -11,4 +11,5 @@ A simple Flutter project.
 ## Commands
 ```
 flutter run -d chrome
+flutter packages get
 ```

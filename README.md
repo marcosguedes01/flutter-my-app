@@ -12,4 +12,7 @@ A simple Flutter project.
 ```
 flutter run -d chrome
 flutter packages get
+
+flutter analyze
+flutter test
 ```

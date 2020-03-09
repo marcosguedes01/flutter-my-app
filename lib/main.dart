@@ -1,4 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/screens/simpleMaterial.dart';
+import 'package:myapp/screens/rowCol.dart';
 
-void main() => runApp(SimpleMaterialScreen());
+void main() => runApp(RowColScreen());

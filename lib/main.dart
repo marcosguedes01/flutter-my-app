@@ -1,4 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/screens/rowCol.dart';
+import 'package:myapp/screens/nestingRowsCols.dart';
 
-void main() => runApp(RowColScreen());
+void main() => runApp(NestingRowsColsScreen());
